@@ -1,0 +1,10 @@
+{
+    "AI": "5",
+    "data": [
+        { "id": 1, "text": "Wash the car", "bg": "linear-gradient(0deg, rgb(36, 5, 0), rgb(128, 80, 211));"  },
+        { "id": 2, "text": "Repair watch", "bg": "linear-gradient(32deg, rgb(105, 121, 53), rgb(62, 168, 215));"  },
+        { "id": 3, "text": "Finish months report", "bg": "linear-gradient(76deg, rgb(9, 131, 23), rgb(225, 147, 131));"  },
+        { "id": 4, "text": "Clear the room", "bg": "linear-gradient(1deg, rgb(89, 253, 159), rgb(114, 162, 111));"  },
+        { "id": 5, "text": "Cook nice dinner", "bg": "linear-gradient(67deg, rgb(79, 162, 40), rgb(217, 254, 13));"  }
+    ]
+}
